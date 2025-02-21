@@ -22,24 +22,7 @@ In many urban areas, residents face challenges in reporting and tracking civic i
 4. **Admin and Official Access:** Verified officials can manage and update issues, ensuring accountability and transparency.
 
 ## Tools Used
-- **Lucidchart:** For creating flow diagrams and system architecture designs.
+- **Lucidchart/ Draw.io:** For creating flow diagrams and system architecture designs.
 - **Figma:** For designing user interfaces and enhancing user experience.
-- **React Native & React.js:** Frontend frameworks for mobile and web applications.
-- **Node.js & Express.js:** Backend server and API management.
 - **MySQL:** Database management for efficient data storage and retrieval.
-- **AWS/Firebase:** Cloud hosting and deployment.
-
-## Organization Chart
-The organizational structure for Civic Connect is as follows:
-
-- **Project Manager:** Oversees the entire project lifecycle, ensures timely delivery, and manages resources.
-- **Business Analyst (I):** Responsible for gathering requirements, designing the workflow, and coordinating between teams.
-- **UX/UI Designer:** Designs user interfaces using Figma to enhance user experience.
-- **Frontend Developer:** Develops the mobile and web applications using React Native and React.js.
-- **Backend Developer:** Manages server-side logic and database integration using Node.js and PostgreSQL.
-- **Quality Assurance (QA) Engineer:** Ensures the product is bug-free and meets quality standards.
-- **DevOps Engineer:** Manages cloud deployment, CI/CD pipelines, and application scalability using AWS/Firebase.
-
-A detailed organizational chart is illustrated below:
-
-![image](https://github.com/user-attachments/assets/2108e81d-d4a3-48c8-a681-ba8a99768c7f)
+- **Microsoft Word:** Creating detailed documentation.
